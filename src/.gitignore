@@ -1,7 +1,0 @@
-PackSlips/
-activate.bat
-epack_slip_parser/
-out.html
-*.egg-info/
-__pycache__/
-*.swp
